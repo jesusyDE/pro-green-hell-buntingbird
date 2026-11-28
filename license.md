@@ -188,4 +188,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Green Hell · Updated 2026-11-27 · Shared under the MIT License*
+*Green Hell · Updated 2026-11-28 · Shared under the MIT License*
